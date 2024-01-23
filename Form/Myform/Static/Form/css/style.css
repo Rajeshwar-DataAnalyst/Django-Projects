@@ -1,0 +1,83 @@
+#heading{
+  font-size: 30px;
+  color:black;
+  margin-top:10px;
+  margin-bottom: 40px;
+  
+  
+}
+.fm{
+  text-align: center;
+  background-color: #fff;
+  height:750px;
+  width:430px;
+  margin-top: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+}
+body{
+  background-image : url('background.jpg');
+  /* filter:blur(3px); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding:0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 15px;
+  background-position: center;
+  position: relative;
+  z-index: 1;
+}
+.btn{
+  background-color: rgb(92, 18, 18);
+  font-size: 14px;
+  border:none;
+  width:155px;
+  height:52px;
+  margin-top: 10px;
+  color:rgb(255, 255, 255);
+}
+#logo{
+  width:100px;
+  height:100px;
+  margin-top: 60px;
+}
+input{
+  font-family: SourceSansPro-Regular, sans-serif;
+  font-size: 17px;
+  height:50px;
+  margin-bottom: 27px;
+  padding-left:25px;
+  width: 290px;
+  border-color: rgb(226, 233, 233);
+  border-radius: 2px;
+  /* background-color: rgb(165, 242, 245); */
+}
+#recapha{
+  border-color: rgb(140, 249, 253);
+  border-radius: 5px;
+  height:77px;
+  width:318PX;
+  margin-bottom: 27px;
+}
+p{
+  color: rgb(75, 103, 104);
+  font-size:12px;
+  margin:0px;
+}
+
+#para{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size:14px;
+}
+
+#an{
+  color:rgb(255, 255, 255);
+  font-size: 14px;
+  text-decoration: none;
+}
